@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Figure e Colori</string>
+    <string name="choose_shape">Scegli una figura</string>
+    <string name="circle">Cerchio</string>
+    <string name="square">Quadrato</string>
+    <string name="triangle">Triangolo</string>
+    <string name="red">Rosso</string>
+    <string name="green">Verde</string>
+    <string name="blue">Blu</string>
+    <string name="shape_image_description">Immagine della figura attuale</string>
+</resources>

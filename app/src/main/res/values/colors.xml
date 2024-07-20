@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colori principali -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Colori dei pulsanti -->
+    <color name="buttonBackgroundRed">#FF0000</color>
+    <color name="buttonTextRed">#FFFFFF</color>
+    <color name="buttonBackgroundBlue">#0000FF</color>
+    <color name="buttonTextBlue">#FFFFFF</color>
+    <color name="buttonBackgroundGreen">#00FF00</color>
+    <color name="buttonTextGreen">#000000</color>
+    <color name="buttonBackgroundYellow">#FFFF00</color>
+    <color name="buttonTextYellow">#000000</color>
+
+    <!-- Colori di sfondo -->
+    <color name="backgroundColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+</resources>
